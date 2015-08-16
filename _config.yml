@@ -5,6 +5,7 @@ email: sublimetimer@gmail.com
 description: The best meditation timer and tracker
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sublimetimer.com" # the base hostname & protocol for your site
+permalink: /blog/:title/
 
 # Build settings
 markdown: kramdown
