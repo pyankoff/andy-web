@@ -1,0 +1,10 @@
+# Site settings
+title: "Sublime Meditation Timer"
+
+email: sublimetimer@gmail.com
+description: The best meditation timer and tracker
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sublimetimer.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
