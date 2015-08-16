@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducting Sublime Meditation Timer"
+title:  "Introducing Sublime Meditation Timer"
 date:   2015-08-16 13:13:23
 categories: meditation timer
 ---
