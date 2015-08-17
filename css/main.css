@@ -1,0 +1,84 @@
+
+
+/* http://css-tricks.com/perfect-full-page-background-image/ */
+html {
+	background: url(../img/DOJS33NWPU.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	padding-top: 20px;
+	font-size: 16px;
+	font-family: "Helvetica",serif;
+	background: transparent;
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	font-weight: 400;
+	font-size: 40px;
+}
+
+/* Override B3 .panel adding a subtly transparent background */
+.panel {
+	background-color: rgba(255, 255, 255, 0.6);
+	margin-top: 180px;
+}
+
+.device {
+	width: 345px;
+	height: 700px;
+	background: url('../img/iPhone+screen.png') no-repeat;
+}
+
+.main-logo {
+	width: 304px;
+	height: 74px;
+	margin-top: 22px;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	background: url('../img/Neue-Logo.png') no-repeat;
+	background-size: 100%;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+	background-color: rgba(255, 255, 255, 0);
+	border-bottom: none;
+}
+.btn-default {
+	margin-right: 10px;
+	padding: 10px 12px;
+	width: 175px;
+	text-align: right;
+	font-size: 0.7em;
+	max-height: 53px;
+}
+
+.appstore {
+	background: url('../img/btn_AppStore.png');
+	background-position:center;
+	background-repeat:no-repeat;
+	padding-left: 150px;
+	padding-top: 40px;
+}
+
+.main-footer a, .main-footer p {
+	color: #fff;
+	padding-top: 10px;
+	margin-bottom: 0;
+}
+
+.main-footer {
+	margin-top: 55px;
+}
+
+
