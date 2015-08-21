@@ -1,29 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-  <div class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
-      <a class="main-logo pull-left" href="#">Sublime Timer</a>
-    </div>
-  </div>
-  
-  <div class="container">
+    {% include nav.html %}
+
     {{ content }}
-  </div>
 
-  <div class="main-footer">
-    <ul class="nav navbar-nav">
-        <li><a href="/">HOME</a></li>
-        <li><a href="/blog">BLOG</a></li>
-        <li><a href="/about">ABOUT</a></li>
-        <li><a class="pull-right" href="https://heapanalytics.com/?utm_source=badge"><img style="width:108px;height:41px;margin-top:-10px;margin-bottom:-10px;" src="https://heapanalytics.com/img/badgeLight.png" alt="Heap | Mobile and Web Analytics" /></a></li>
-    </ul>
-  </div>
+    {% include footer.html %}
 
-  </body>
+</body>
 
 </html>

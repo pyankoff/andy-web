@@ -1,11 +1,16 @@
 # Site settings
-title: "Sublime Meditation Timer"
-
+title: Sublime Meditation Timer
+header-img: img/home-bg.jpg
 email: sublimetimer@gmail.com
-description: The best meditation timer and tracker
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sublimetimer.com" # the base hostname & protocol for your site
-permalink: /blog/:title/
+description: "Write your site description here. It will be used as your sites meta description as well!"
+
+url: "http://sublimetimer.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
