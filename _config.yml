@@ -2,7 +2,7 @@
 title: Sublime Meditation Timer
 header-img: img/home-bg.jpg
 email: sublimetimer@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: The best meditation timer and tracker
 
 url: "http://sublimetimer.com"
 
@@ -10,4 +10,4 @@ url: "http://sublimetimer.com"
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","README.md"]
