@@ -7,4 +7,8 @@ author:     "Andy"
 header-img: "img/home-bg.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p>I've started meditating a couple of month ago. One of the first things I did after reading my first book on meditation was opening App Store and looking for a timer. I wanted something simple and well-designed.</p>
+
+<p>Meditation timer is a very simple app. It's just a clock with some gentle sound when the time is up and maybe a couple of interval sounds along the way. I was very surprised when I couldn't find any free app that would perform such a simple functions.</p>
+
+<p>So I've decided to make one. At the moment it goes through Apple approval process and should be available next week. Stay tuned!</p>
