@@ -9,14 +9,14 @@ html {
 
 body {
 	font-size: 16px;
-	font-family: "Helvetica",serif;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	background: transparent;
 	height: 100%;
 }
 
 h1 {
-	font-family: Arial, sans-serif;
-	font-weight: 400;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 800;
 	font-size: 40px;
 }
 
@@ -67,7 +67,7 @@ h1 {
 	background: url('../img/btn_AppStore.png');
 	background-position:center;
 	background-repeat:no-repeat;
-	padding-left: 150px;
+	padding-left: 120px;
 	padding-top: 40px;
 }
 
