@@ -117,3 +117,15 @@ h1 {
     background-color: transparent;
     color: white;
 }
+
+.fa-facebook:hover {
+    color: black;
+}
+.fa-twitter:hover {
+    color: black;
+}
+.fa-pinterest:hover {
+    color: black;
+}
+
+
