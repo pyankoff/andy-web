@@ -24,7 +24,7 @@ h1 {
 .panel {
 	background-color: rgba(255, 255, 255, 0);
 	margin-top: 100px;
-	margin-bottom: 230px;
+	margin-bottom: 50px;
 	border-style: none;
 	color: #fff;
 
@@ -102,6 +102,7 @@ h1 {
 	float: none;
 }
 
+
 .nav > li > a {
 	color: #ccc;
 	cursor: hand;
@@ -126,5 +127,6 @@ h1 {
 .fa-pinterest:hover {
     color: black;
 }
+
 
 
