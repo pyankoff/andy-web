@@ -1,5 +1,5 @@
 html {
-	background: url(../img/home-bg.jpg) no-repeat center center fixed; 
+	background: url(../img/home-bg4.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -30,18 +30,18 @@ h1 {
 
 .device {
 	width: 345px;
-	height: 700px;
+	height: 677px;
 	background: url('../img/iPhone+screen.png') no-repeat;
 }
 
 .main-logo {
-	width: 304px;
-	height: 74px;
+	width: 354px;
+	height: 104px;
 	margin-top: 22px;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
-	background: url('../img/Neue-Logo.png') no-repeat;
+	background: url('../img/main-logo.png') no-repeat;
 	background-size: 100%;
 }
 
@@ -114,7 +114,7 @@ h1 {
 	margin-bottom: 10px;
 }
 
-.nav > li > a:hover, nav > li > a:focus {
+.nav > li > a:hover, .nav > li > a:focus {
     background-color: transparent;
     color: white;
 }
