@@ -22,12 +22,12 @@ h1 {
 
 /* Override B3 .panel adding a subtly transparent background */
 .panel {
-	background-color: rgba(255, 255, 255, 0);
+	background-color: rgba(225, 95, 207, 0);
 	margin-top: 100px;
 	margin-bottom: 70px;
 	border-style: none;
 	color: #fff;
-
+	box-shadow: none;
 }
 
 .device {
