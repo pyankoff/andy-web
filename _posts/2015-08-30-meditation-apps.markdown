@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Meditation apps for iPhone"
-subtitle:   "Why do we need another meditation app on Apple App Store"
+subtitle:   "Why App Store needs another meditation app"
 date:       2015-08-30 12:00:00
 author:     "Andy"
 header-img: "img/home-bg.jpg"
