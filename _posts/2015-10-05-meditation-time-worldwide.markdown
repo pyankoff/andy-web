@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Meditation time, worldwide!"
-subtitle:   "US, UK, Australia, Germany, Thailand"
+subtitle:   "US, UK, Australia, Germany, Thailand we love you"
 date:       2015-10-05 12:00:00
 author:     "Andy"
 header-img: "img/home-bg.jpg"
