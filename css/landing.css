@@ -1,5 +1,5 @@
 html {
-	background: url(../img/home-bg4.jpg) no-repeat center center fixed; 
+	background: url(../img/home-bg4.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -55,11 +55,14 @@ h1 {
 .btn-default {
 	margin-right: 10px;
 	padding: 10px 12px;
-	width: 175px;
 	text-align: right;
 	font-size: 0.7em;
 	max-height: 53px;
 	border-style: none;
+}
+
+.lead {
+	margin-bottom: 60px;
 }
 
 .appstore {
@@ -68,6 +71,18 @@ h1 {
 	background-repeat:no-repeat;
 	padding-left: 150px;
 	padding-top: 40px;
+	display: inline;
+}
+
+.tlg {
+	background: url('../img/ic_messenger_tlg.png');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 30px;
+	padding-left: 150px;
+	padding-top: 40px;
+	display: inline;
 }
 
 
@@ -127,6 +142,3 @@ h1 {
 .fa-pinterest:hover {
     color: black;
 }
-
-
-

@@ -1,3 +1,3 @@
-#Sublime Timer Website
+#Andy Website
 
 In development
