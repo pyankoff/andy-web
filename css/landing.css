@@ -71,7 +71,7 @@ p {
   margin-bottom: 40px;
 }
 
-.appstore {
+.appstore, .appstore:active {
   background: url('../img/btn_AppStore.png');
   background-position:center;
   background-repeat:no-repeat;
@@ -80,7 +80,7 @@ p {
   display: inline;
 }
 
-.tlg {
+.tlg, .tlg:active {
   background: url('../img/telegram.png');
   background-position: center;
   background-repeat: no-repeat;
