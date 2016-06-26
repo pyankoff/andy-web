@@ -6,10 +6,8 @@ description: Chat in English with Friendly Robot Andy, English Practice, Grammar
 
 url: "http://andychatbot.com"
 facebook_username: chatbotandy
-twitter_username: andychatbot
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 permalink: pretty
 exclude: ["less","node_modules","README.md"]
