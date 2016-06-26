@@ -172,6 +172,10 @@ p {
   color: black;
 }
 
+.fa-envelope-o:hover {
+  color: black;
+}
+
 .pay {
   display: block;
   height: 400px;
