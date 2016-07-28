@@ -181,3 +181,11 @@ p {
   height: 400px;
   background-color: white;
 }
+
+.navbar {
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
