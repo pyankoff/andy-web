@@ -80,6 +80,16 @@ p {
   display: inline;
 }
 
+.android, .android:active {
+  background: url('../img/btn_android.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 150px;
+  padding-top: 20px;
+  display: inline;
+}
+
 .tlg, .tlg:active {
   background: url('../img/telegram.png');
   background-position: center;
