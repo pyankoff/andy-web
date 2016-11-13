@@ -36,6 +36,12 @@ p {
   box-shadow: none;
 }
 
+@media (max-width: 600px) {
+  .panel {
+    margin-top: 0;
+  }
+}
+
 .device {
   margin-top: -30px;
   width: 345px;
