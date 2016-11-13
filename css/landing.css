@@ -75,6 +75,7 @@ p {
   background: url('../img/btn_AppStore.png');
   background-position:center;
   background-repeat:no-repeat;
+  background-size: 100% 100%;
   padding-left: 150px;
   padding-top: 20px;
   display: inline;
