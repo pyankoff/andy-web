@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8GGCHA22BL.pyankoff.andy",
+        "paths": ["/app"]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["8GGCHA22BL.pyankoff.andy"]
+  },
+  "webcredentials": {
+    "apps": ["8GGCHA22BL.pyankoff.andy"]
+  }
+}

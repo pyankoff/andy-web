@@ -36,9 +36,11 @@ p {
 
 .device {
   margin-top: -30px;
-  width: 345px;
-  height: 600px;
+  width: 100%;
+  height: auto;
+  max-width: 355px;
   background: url('../img/iPhone+screen.png') no-repeat;
+  background-size: cover;
 }
 
 .main-logo {
@@ -129,6 +131,7 @@ p {
 .wrapper {
   min-height:100%;
   position:relative;
+  margin-top: 30px;
 }
 
 .navbar-fixed-top {
