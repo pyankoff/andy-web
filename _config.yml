@@ -12,3 +12,4 @@ facebook_username: chatbotandy
 markdown: kramdown
 permalink: pretty
 exclude: ["less","node_modules","README.md"]
+include: ['.well-known']
